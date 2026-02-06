@@ -21,11 +21,12 @@ This broad topic covers fundamental topics to the history of the United States a
 
 ## Datasets in Consideration:
 
-Christina Jordan:
-Vedha Pant:
-Adin Farmer:
-Ananya Kavatekar:
-Daria Meshcheriakova: Immigration Yearbook 2019 (https://ohss.dhs.gov/topics/immigration/yearbook/2019#table-data-heading)
+- Christina Jordan:
+- Vedha Pant:
+- Adin Farmer:
+- Ananya Kavatekar: source of valuable datasets related to tracking women's involvement in American politics at all levels across history 
+ (https://cawp.rutgers.edu/)
+- Daria Meshcheriakova: Immigration Yearbook 2019, which provides yearly information on different types of immigration (https://ohss.dhs.gov/topics/immigration/yearbook/2019#table-data-heading)
 
 ## Collaboration Plan:
 We have set clear expectations for communication for group assignment and tasks through channels such as a shared group chat. We also have also agreed that we will make effective use of in-class group time (whether optional or not) to discuss our ideas/concerns and collaborate on group elements. 
