@@ -6,4 +6,4 @@
 
 
 ## Part 2 
-Digitization Process:
+Digitization Process: Many of the records for our topic are digitized using OCR processes. Since we're dealing primarily with historical data many records we're looking at were created before digital processes were an option.
