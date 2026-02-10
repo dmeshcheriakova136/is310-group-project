@@ -6,4 +6,4 @@
 
 
 ## Part 2 
-1. 
+Digitization Process:
