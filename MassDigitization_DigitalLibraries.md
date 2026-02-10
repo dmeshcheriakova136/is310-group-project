@@ -3,6 +3,51 @@
 ## Part 1
 
 
+The Violin - A. Gude Deekun, Edited by Walter W. Wallace
+What search strategies did you use?- Searched poem first and unsuccessfully, searched the author and found a magazine issue, searched by year(1903), and then in the magazine issue, I searched by author name and then scrolled through a few options and found the poem
+Were you able to find all the issues you looked for?
+Found The Violin
+What barriers or challenges did you encounter?
+The title of the article / document many times does not indicate whether the poem will be found within until tedious inspection of the table of contents if present after clicking into the document. 
+
+Ante-Belllum Cooking - Silas X. Floyd
+Link: https://babel.hathitrust.org/cgi/pt?id=uva.x000492470&seq=139&q1=Ante-Bellum+Cooking
+What search strategies did you use?- Searched for poem name and 
+
+Author name first, found the magazine issue, searched the document for the poem name, then found the poem in the suggestions.
+
+Were you able to find all the issues you looked for? 
+
+Yes, we were.The OCR on this poem is functional, as there does not seem to be any issues pulling individual words or even sentences/phrases from the document. 
+
+3. 
+
+
+ Once you’ve found at least one magazine issue, examine the OCR (Optical Character Recognition) quality:
+Can you search for specific words or phrases within the document?
+We were able to successfully search for words and phrases by using the “Search in this text” button
+How accurate is the OCR text compared to what you see in the page images?
+It was pretty accurate in recognizing words like “eerie”, “the author name: A. Gude Deekun, “What spirit strange”
+What kinds of errors do you notice? (Consider fonts, layouts, damaged pages, etc.)
+In this specific poem we do not see errors in the text either in the digitized magazine nor in the text version. However, in the page after there are numerous signs of damaged pages where there are slight markings that may make 1-2 certain characters within a word hard to make out individually. However, the OCR prevails in these instances as the text extracted is accurate to what was intended by the poem. 
+However there are instances (not in this particular poem) where the digitized article has instances of significant damage that make the text highly illegible. 
+
+How might OCR quality affect research using this material?
+Without good OCR quality, it would be very hard to find the poem as the magazine had around 900 pages. Also the quality of the text plays a big role in research and understanding as some of the words were very small, blurry, erased and sometimes scanning issues which caused words to be overlapped by words(see image above)
+
+
+Understanding Context: Compare the poem in the dataset to the original magazine page:
+What additional context do you gain from seeing the original page? 
+From seeing the poem in its source article we get insight into the visual structure of the poems and its medium of delivery. In its source document we begin to see the type of visibility that this poem has been one of hundreds and greater insight into how exactly the poem appeared to readers in the time period in terms of font and text size. 
+
+What else appears on the page or in the issue alongside the poem?
+It has the author's other poem, ‘Suspense’ as well. 
+What information was lost in creating just the dataset of poems?
+While creating the dataset, the poem is cut down and only the first three and a half lines are included in the dataset. This essentially cut out a majority of the articles which we found were multiple paragraphs in length. 
+What information was gained by creating the structured dataset?
+Quick keys to search for the articles as the metadata on authors, site, and clipping of the poem offer great utility to investigating for the original sources of the content. 
+
+
 
 
 
