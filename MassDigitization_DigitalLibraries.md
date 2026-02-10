@@ -2,13 +2,27 @@
 *A. Gude Deekun, edited by Walter W. Wallace*
 
 **What search strategies did you use?**  
-Searched the poem first unsuccessfully, then searched the author and found a magazine issue. Searched by year (1903), and then within the magazine issue searched by author name and scrolled through a few options until finding the poem.
+Searched for the poem first unsuccessfully, then searched the author and found a magazine issue. Searched by year (1903), and within the magazine issue searched by author name and scrolled through a few options until finding the poem.
 
 **Were you able to find all the issues you looked for?**  
 Found *The Violin*.
 
 **What barriers or challenges did you encounter?**  
 The title of the article or document often does not indicate whether the poem will be found within until tedious inspection of the table of contents, if present, after clicking into the document.
+
+---
+
+## OCR Quality Analysis
+
+**Can you search for specific words or phrases within the document?**  
+We were able to successfully search for words and phrases by using the “Search in this text” button.
+
+**How accurate is the OCR text compared to what you see in the page images?**  
+It was pretty accurate in recognizing words such as “eerie,” the author name A. Gude Deekun, and the phrase “What spirit strange.”
+
+**What kinds of errors do you notice?**  
+In this specific poem, we do not see errors in the text either in the digitized magazine or in the text version. However, on the following page there are numerous signs of damaged pages where there are slight markings.  
+There are also instances (not in this particular poem) where the digitized article shows significant damage that makes the text highly illegible.
 
 ---
 
@@ -20,36 +34,44 @@ The title of the article or document often does not indicate whether the poem wi
 Searched for the poem name and author name first, found the magazine issue, searched the document for the poem name, and then found the poem through the suggestions.
 
 **Were you able to find all the issues you looked for?**  
-Yes, we were.
+Yes, we were. The OCR on this poem is functional, as there do not appear to be issues pulling individual words or even full sentences or phrases from the document.
+
+---
+
+## OCR Quality Analysis
 
 **Can you search for specific words or phrases within the document?**  
 We were able to successfully search for words and phrases by using the “Search in this text” button.
 
 **How accurate is the OCR text compared to what you see in the page images?**  
-It was pretty accurate in recognizing words like “eerie,” the author name A. Gude Deekun, and the phrase “What spirit strange.”
+The OCR was entirely accurate to the text on the page, even with the numerous stylistic elements such as spacing, commas, and apostrophes within the poem.
 
 **What kinds of errors do you notice?**  
-In this specific poem, we do not see errors in the text either in the digitized magazine or the text version. However, on the following page there are numerous signs of damaged pages with slight markings that may make one or two characters within a word hard to make out individually. The OCR still prevails in these instances, as the extracted text is accurate to what was intended by the poem.  
-There are also other instances (not in this particular poem) where the digitized article has significant damage that makes the text highly illegible.
+In this specific poem, we do not see errors in the text either in the digitized magazine or in the text version. However, on the page after, there are numerous signs of damaged pages where slight markings may make one or two characters within a word hard to distinguish individually. Despite this, the OCR prevails, as the extracted text remains accurate to what was intended by the poem.
+
+---
+
+## Impact of OCR on Research
 
 **How might OCR quality affect research using this material?**  
-Without good OCR quality, it would be very hard to find the poem since the magazine contains around 900 pages. OCR quality also plays a major role in research and comprehension, as some words are very small, blurry, erased, or affected by scanning issues that cause words to overlap.
+Without good OCR quality, it would be very difficult to locate the poem, as the magazine contains around 900 pages. OCR quality also plays a significant role in research and interpretation, since some words are very small, blurry, erased, or affected by scanning issues that cause words to overlap.
 
 ---
 
 ## Understanding Context: Dataset vs. Original Page
 
 **What additional context do you gain from seeing the original page?**  
-Seeing the poem in its source article provides insight into the visual structure of the poem and its medium of delivery. The source document shows that the poem was one of hundreds, giving greater context for how it appeared to readers at the time in terms of font and text size.
+Viewing the poem in its source article provides insight into the visual structure of the poem and its medium of delivery. The source document also shows that the poem was one of hundreds, offering greater understanding of how it appeared to readers at the time in terms of font and text size.
 
 **What else appears on the page or in the issue alongside the poem?**  
-The author’s other poem, *Suspense*, appears as well.
+The author’s other poem, *Suspense*, appears alongside it.
 
 **What information was lost in creating just the dataset of poems?**  
-Only the first three and a half lines of the poem are included in the dataset, cutting out the majority of the article, which spans multiple paragraphs.
+Only the first three and a half lines of the poem are included in the dataset, cutting out a majority of the article, which spans multiple paragraphs.
 
 **What information was gained by creating the structured dataset?**  
-The dataset provides quick keys for searching articles, as metadata on authors, site, and poem clippings offers strong utility for locating original sources.
+The structured dataset provides quick keys for searching articles, as metadata on authors, site, and poem clippings offers strong utility for locating original sources.
+
 
 
 
