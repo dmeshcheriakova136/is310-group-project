@@ -12,3 +12,8 @@
 2. **Digitization Process:** Many of the records for our topic are digitized using OCR processes. Since we're dealing primarily with historical data many records we're looking at were created before digital processes were an option. OCR is a convenient standard since it makes the documents searchable in addition to being just digital.
 3. Placeholder
 4. In the History and Politics area, there might be several examples of born-digital materials. Those include spreadsheets and databases taken from current historical and political data on any topic, posts on social media by political figures, and digitally created videos and photos. Governmental websites might not be fully digitized either.
+
+Examples: historical and political video (https://www.youtube.com/watch?v=hpldEyE-LcI)
+Website Report (https://www.townandcountrymag.com/society/politics/g32746486/white-house-protests-history-photos/)
+
+In comparison with digitized materials, digitally born materials represent more modern history and politics. In addition to that, they are more accessible to the wider audience and don't loose the quality or fade away over time.
