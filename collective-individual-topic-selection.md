@@ -22,7 +22,7 @@ This broad topic covers fundamental topics to the history of the United States a
 ## Datasets in Consideration:
 
 - Christina Jordan:
-- Vedha Pant:
+- Vedha Pant:https://github.com/vedhapant/is310-coding-assignments/tree/main/group-project/american-art-history 
 - Adin Farmer:
 - Ananya Kavatekar: source of valuable datasets related to tracking women's involvement in American politics at all levels across history 
  (https://cawp.rutgers.edu/)
